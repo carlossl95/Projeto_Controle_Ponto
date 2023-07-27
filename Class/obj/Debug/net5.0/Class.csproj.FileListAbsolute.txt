@@ -1,0 +1,32 @@
+D:\Jovem Programador\trabalho curso\ponto\Class\bin\Debug\net5.0\Class.deps.json
+D:\Jovem Programador\trabalho curso\ponto\Class\bin\Debug\net5.0\Class.dll
+D:\Jovem Programador\trabalho curso\ponto\Class\bin\Debug\net5.0\Class.pdb
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\Class.csproj.AssemblyReference.cache
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\Class.AssemblyInfoInputs.cache
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\Class.AssemblyInfo.cs
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\Class.csproj.CoreCompileInputs.cache
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\Class.dll
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\refint\Class.dll
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\Class.pdb
+D:\Jovem Programador\trabalho curso\ponto\Class\obj\Debug\net5.0\ref\Class.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\Class.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\Class.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\Class.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\Class.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\refint\Class.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\Class\obj\Debug\net5.0\Class.pdb
+D:\Trabalho final\ponto\Class\bin\Debug\net5.0\Class.deps.json
+D:\Trabalho final\ponto\Class\bin\Debug\net5.0\Class.dll
+D:\Trabalho final\ponto\Class\bin\Debug\net5.0\Class.pdb
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\Class.csproj.AssemblyReference.cache
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\Class.AssemblyInfoInputs.cache
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\Class.AssemblyInfo.cs
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\Class.csproj.CoreCompileInputs.cache
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\Class.dll
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\refint\Class.dll
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\Class.pdb
+D:\Trabalho final\ponto\Class\obj\Debug\net5.0\ref\Class.dll

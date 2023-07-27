@@ -1,0 +1,46 @@
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\console.exe
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\console.deps.json
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\console.runtimeconfig.json
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\console.runtimeconfig.dev.json
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\console.dll
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\console.pdb
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\Class.dll
+D:\Jovem Programador\trabalho curso\ponto\console\bin\Debug\net5.0\Class.pdb
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.csproj.AssemblyReference.cache
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.AssemblyInfoInputs.cache
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.AssemblyInfo.cs
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.csproj.CoreCompileInputs.cache
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.csproj.CopyComplete
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.dll
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\refint\console.dll
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.pdb
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\console.genruntimeconfig.cache
+D:\Jovem Programador\trabalho curso\ponto\console\obj\Debug\net5.0\ref\console.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\console.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\console.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\console.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\console.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\console.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\refint\console.dll
+C:\Users\carlo\OneDrive\Área de Trabalho\trabalho curso2\ponto\console\obj\Debug\net5.0\console.pdb
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\console.exe
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\console.deps.json
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\console.runtimeconfig.json
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\console.runtimeconfig.dev.json
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\console.dll
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\console.pdb
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\Class.dll
+D:\Trabalho final\ponto\console\bin\Debug\net5.0\Class.pdb
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.csproj.AssemblyReference.cache
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.AssemblyInfoInputs.cache
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.AssemblyInfo.cs
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.csproj.CoreCompileInputs.cache
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.csproj.CopyComplete
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.dll
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\refint\console.dll
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.pdb
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\console.genruntimeconfig.cache
+D:\Trabalho final\ponto\console\obj\Debug\net5.0\ref\console.dll
